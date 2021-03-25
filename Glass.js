@@ -5,4 +5,4 @@ class Glass extends BaseClass {
     this.image = loadImage("sprites/glass.png");
   }
 
-};
+}; 
